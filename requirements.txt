@@ -1,0 +1,14 @@
+Libraries used:-
+tensorflow
+
+keras
+
+opencv-python
+
+numpy
+
+matplotlib (for visualization)
+
+scikit-learn (for splitting data and evaluation)
+
+flask (for web app deployment)
