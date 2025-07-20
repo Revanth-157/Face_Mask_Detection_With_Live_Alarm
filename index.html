@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Face Mask Detection Live Feed</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+    <header>
+        <h1>Face Mask Detection Live Alert System</h1>
+        <p>Real-time face mask detection using your webcam.</p>
+    </header>
+    <main>
+        <section class="video-section">
+            <h2>Live Video Feed</h2>
+            <div class="video-container">
+                <img src="{{ url_for('video_feed') }}" alt="Live Video Feed" />
+            </div>
+        </section>
+        <section class="status-section">
+            <h2>Status</h2>
+            <p id="status-message">Loading video feed...</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Face Mask Detection System</p>
+    </footer>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
