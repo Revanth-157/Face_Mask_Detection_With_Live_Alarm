@@ -67,7 +67,8 @@ This project is a real-time face mask detection system that uses deep learning a
 
 ## ✅ Project Deliverables
 
-* Trained model: `mask_detector_model.h5`
+* Trained model: `mask_detector_model.h5` (Wasn't able to includ ein the repository due to file restrictions)
+ 
 * Real-time detection script: `realtime_detection.py`
 * Flask app (optional): `app.py`
 * Setup instructions: `README.md`
