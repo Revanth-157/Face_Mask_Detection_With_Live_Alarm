@@ -98,5 +98,3 @@ This project is a real-time face mask detection system that uses deep learning a
    Then open your browser at `http://localhost:5000`
 
 ---
-
-Let me know if you also want me to generate or revise `realtime_detection.py`, `app.py`, or the `requirements.txt`.
