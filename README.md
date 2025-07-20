@@ -1,6 +1,4 @@
-Sure! Here's a concise and professional version of your `README.md` file without the detailed project structure:
 
----
 
 # 😷 Face Mask Detection with Live Alert System
 
