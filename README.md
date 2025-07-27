@@ -4,7 +4,7 @@
 
 ## 🔍 Overview
 
-This project is a real-time face mask detection system that uses deep learning and computer vision to determine whether individuals are wearing a mask. The system captures live video from a webcam, detects faces using Haar Cascade classifiers, and classifies each face as either "Mask" or "No Mask" using a trained Convolutional Neural Network (CNN). If a person is detected without a mask, the system can trigger alerts such as sounds, on-screen warnings, or event logging.
+This project is a real-time face mask detection system that uses deep learning and computer vision to determine whether individuals are wearing a mask. The system captures live video from a webcam, detects faces using Haar Cascade classifiers, and classifies each face as either "Mask" or "No Mask" using a trained Convolutional Neural Network (CNN). If a person is detected without a mask, the system can trigger alerts such as sounds, on-screen warnings, or event logging. Wasn't able to download the model in the repository due to memory issues
 
 ---
 
