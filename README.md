@@ -105,3 +105,5 @@ This project is a real-time face mask detection system that uses deep learning a
 
 Video Demo:-
 https://drive.google.com/file/d/1Zrub6K3YV8BibfxfX-8pYphLonuYwYho/view?usp=drive_link
+
+Note:- Alarm may be inaudible due to audio issues from my end will be improved in the future
