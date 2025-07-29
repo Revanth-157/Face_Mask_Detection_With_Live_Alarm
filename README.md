@@ -88,6 +88,8 @@ This project is a real-time face mask detection system that uses deep learning a
 
    ```bash
    python realtime_detection.py
+   Run the model script which is step 2
+
    ```
 3. (Optional) Launch Flask web app:
 
