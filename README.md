@@ -100,3 +100,8 @@ This project is a real-time face mask detection system that uses deep learning a
    Then open your browser at `http://localhost:5000`
 
 ---
+
+
+
+Video Demo:-
+https://drive.google.com/file/d/1Zrub6K3YV8BibfxfX-8pYphLonuYwYho/view?usp=drive_link
