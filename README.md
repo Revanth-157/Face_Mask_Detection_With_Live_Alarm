@@ -87,7 +87,7 @@ This project is a real-time face mask detection system that uses deep learning a
 2. Run the real-time detection script:
 
    ```bash
-   python realtime_detection.py
+   python STEP2_MODEL_TRAIN_AND_TEST.py
    Run the model script which is step 2
 
    ```
